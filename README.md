@@ -1,4 +1,4 @@
-# Apache Dubbo Project
+# Dubbo
 
 [![Build and Test For PR](https://github.com/apache/dubbo/actions/workflows/build-and-test-pr.yml/badge.svg)](https://github.com/apache/dubbo/actions/workflows/build-and-test-pr.yml)
 [![Codecov](https://codecov.io/gh/apache/dubbo/branch/3.2/graph/badge.svg)](https://codecov.io/gh/apache/dubbo)
@@ -153,6 +153,7 @@ public class Application {
     }
 }
 ```
+
 *See [client/Application.java](https://github.com/apache/dubbo-samples/blob/389cd612f1ea57ee6e575005b32f195c442c35a2/1-basic/dubbo-samples-api/src/main/java/org/apache/dubbo/samples/client/Application.java) on GitHub.*
 
 ### Build and run the consumer
@@ -213,7 +214,7 @@ See [CONTRIBUTING](https://github.com/apache/dubbo/blob/master/CONTRIBUTING.md)
 * Improve the [dubbo-admin/dubbo-monitor](https://github.com/apache/dubbo-admin).
 * Contribute to the projects listed in [ecosystem](https://github.com/dubbo).
 * Other forms of contribution not explicitly enumerated above.
-* If you would like to contribute, please send an email to dev@dubbo.apache.org to let us know!
+* If you would like to contribute, please send an email to <dev@dubbo.apache.org> to let us know!
 
 ## Reporting bugs
 
@@ -242,4 +243,4 @@ Please report security vulnerabilities to [us](mailto:security@dubbo.apache.org)
 
 ## License
 
-Apache Dubbo software is licensed under the Apache License Version 2.0. See the [LICENSE](https://github.com/apache/dubbo/blob/master/LICENSE) file for details.
+Dubbo is licensed under [GNU General Public License v3.0](LICENSE).
